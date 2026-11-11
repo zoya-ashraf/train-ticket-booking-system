@@ -195,10 +195,6 @@ Being upfront about what this version doesn't do yet:
 
 Ideas and pull requests are welcome. Open an issue to discuss what you'd like to change, or pick something from the roadmap above.
 
-## 📄 License
-
-Released under the MIT License. Add a `LICENSE` file to the repository to make it official.
-
 ## 👤 Author
 
 Zoya Shireen Ashraf
